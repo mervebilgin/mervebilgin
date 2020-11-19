@@ -14,4 +14,4 @@
 </p>
 <hr>
 
-<p align="center"><h2 align="center"><ı>My Github Stats /<ı><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji></h2></p>
+<p align="center"><h2 align="center"><I>My Github Stats </I><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji></h2></p>
