@@ -8,10 +8,11 @@
 <a href="mailto:mrvblgn44@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mrvblgn44@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
+<p align="center"></i><h2 align="center"><I>~My Github Stats </I><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊<I>~</I></g-emoji></h2></p>
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mervebilgin&show_icons=true&theme=synthwave" alt="Merve Bilgin:: Profile Stats" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mervebilgin&langs_count=10&theme=tokyonight&layout=compact" alt="mervebilgin :: Top Langs" />
 </p>
 <hr>
 
-<p align="center"></i><h2 align="center"><I>~My Github Stats </I><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊<I>~</I></g-emoji></h2></p>
