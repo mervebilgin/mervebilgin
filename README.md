@@ -7,7 +7,6 @@
 <a href="https://www.instagram.com/blgn_mrv/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-blgn_mrv-purple?style=flat-square&logo=instagram"></a>
 <a href="mailto:mrvblgn44@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mrvblgn44@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
-<g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji>
 <hr>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mervebilgin&show_icons=true&theme=synthwave" alt="Merve Bilgin:: Profile Stats" /></p>
 <hr>
