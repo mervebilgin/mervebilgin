@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+<p>🔭 I am currently working on React, Node.js<p/>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mervebilgin&color=blue" alt="mervebilgin :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/merve-bilgin-a35a9117a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mervebilgin-purple?style=flat&logo=linkedin"></a>
