@@ -3,7 +3,7 @@
 🔭 I am currently learning React, Node.js
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mervebilgin&color=blue" alt="mervebilgin :: Profile Stats"></a>
-<a href="https://www.linkedin.com/in/merve-bilgin-a35a9117a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mervebilgin-purple?style=flat&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/merveebilgin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mervebilgin-purple?style=flat&logo=linkedin"></a>
 <a href="https://twitter.com/blgn_mrve/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@blgn_mrve-blue?style=flat&logo=twitter"></a>
 <a href="https://www.instagram.com/bilginn.merve/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bilginn.merve-purple?style=flat-square&logo=instagram"></a>
 <a href="mailto:mrvblgn44@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mrvblgn44@gmail.com-blue?style=flat&logo=gmail"></a>
