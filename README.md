@@ -3,14 +3,14 @@
 <img width="60%" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&color=BF91F3&background=1A1B27&center=true&vCenter=true&duration=3000&pause=300&lines=<Hello,+There!+👋>;<I'm+Merve!>;<Nice+to+meet+you!>">
 </a></hp>
 
-I am currently developing myself in two areas as frontend and backend. In this process, I am trying to gain experience by developing projects with technologies such as **React.js** and **Node.js**. I believe web development can be more diverse and inspiring. With a mission to present the possibilities of web development, I am pursuing new expressions through experiments and thoughts.
+As an engineer with a strong background in **Software test automation** and **QA**, I aim to make software development processes more efficient and reliable. While developing test automation projects with **Java**, I am also constantly improving myself in developing modern and scalable applications with **Spring Boot**. As an engineer who believes in open source projects and continuous learning, I share my work on **Test automation, Java and Spring Boot** on my GitHub profile. 
+
+**Let's build quality software together!**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=mervebilgin&color=blue" alt="mervebilgin :: Profile Stats"></a>
 <a href="https://www.linkedin.com/in/merveebilgin/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@mervebilgin-purple?style=flat&logo=linkedin"></a>
-<a href="https://twitter.com/blgn_mrve/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@blgn_mrve-blue?style=flat&logo=twitter"></a>
-<a href="https://www.instagram.com/bilginn.merve/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-bilginn.merve-purple?style=flat-square&logo=instagram"></a>
 <a href="mailto:mrvblgn44@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mrvblgn44@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 <hr>
@@ -18,7 +18,13 @@ I am currently developing myself in two areas as frontend and backend. In this p
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&ensp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354321/selenium.svg" alt="selenium" width="40" height="40"/></a>&ensp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353625/cucumber.svg" alt="cucumber" width="40" height="40"/></a>&ensp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353929/jenkins.svg" alt="jenkins" width="40" height="40"/></a>&ensp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353413/appium.svg" alt="appium" width="40" height="40"/></a>&ensp;
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="40" height="40"/></a>&ensp;
+   <br> <br>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>&ensp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&ensp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>&ensp;
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>&ensp;
